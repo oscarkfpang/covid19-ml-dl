@@ -2,7 +2,7 @@
 Simple forecast using public COVID-19 data in Hong Kong
 
 # Background
-Use some real-time data to demonstrate applications of machine learning (Kmeans Clustering) and deep learning (CNN-LSTM model on time-series data forecasting). 
+Use some real-time data to demonstrate applications of machine learning (K-means Clustering) and deep learning (CNN-LSTM model on time-series data forecasting). 
 
 The first ML notebook uses K-Means clustering to identify data centroids over the geographical distribution of buildings having probable/confirmed cases in the past 14 days in Hong Kong.
 
