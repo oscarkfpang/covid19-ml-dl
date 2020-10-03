@@ -6,7 +6,7 @@ Use some real-time data to demonstrate applications of machine learning (Kmeans 
 
 The first ML notebook uses K-Means clustering to identify data centroids over the geographical distribution of buildings having probable/confirmed cases in the past 14 days in Hong Kong.
 
-The second DL notebook compares two DL models, CNN-LSTM and TCN, on forecasting trends of COVID-19 in Hong Kong. The model is simply trained by the historical data without having separate test / validation data. 
+The second DL notebook compares two DL models, CNN-LSTM and TCN, on forecasting trends of COVID-19 in Hong Kong. The model is simply trained by the historical data without having separate test / validation data. Hyper-parameters (e.g. learning rate, epochs, etc) have been identified beforehand from some trials. 
 
 # Installation
 Tested and created in Ubuntu 18 environment with the following packages installed:
