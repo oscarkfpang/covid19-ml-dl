@@ -1,6 +1,13 @@
 # covid19-ml-dl
 Simple forecast using public COVID-19 data in Hong Kong
 
+# Background
+Use some real-time data to demonstrate applications of machine learning (Kmeans Clustering) and deep learning (CNN-LSTM model on time-series data forecasting). 
+
+The first ML notebook uses K-Means clustering to identify data centroids over the geographical distribution of buildings having probable/confirmed cases in the past 14 days in Hong Kong.
+
+The second DL notebook compares two DL models, CNN-LSTM and TCN, on forecasting trends of COVID-19 in Hong Kong. The model is simply trained by the historical data without having separate test / validation data. 
+
 # Installation
 Tested and created in Ubuntu 18 environment with the following packages installed:
 + Tensorflow v2.0.0 or above
