@@ -1,4 +1,4 @@
-# covid19-ml-dl
+# How Machine Learning and Deep Learning help decision-making – A practical approach using COVID-19 data
 Simple forecast using public COVID-19 data in Hong Kong
 
 # Background
